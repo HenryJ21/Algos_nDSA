@@ -1,0 +1,7 @@
+Put in last element into stack
+Start from last-1
+pop from stack while curr_ele is greater than stack top
+if stack empty break
+if stack empty ans array mein push -1
+else ush stack top in ans array
+push to stack curr_ele
