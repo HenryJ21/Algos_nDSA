@@ -5,3 +5,4 @@ if stack empty break
 if stack empty ans array mein push -1
 else ush stack top in ans array
 push to stack curr_ele
+reverse ans array
