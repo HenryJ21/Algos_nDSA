@@ -12,9 +12,9 @@ public:
         for(int i=0;i<n;i++){
             tsum+=nums[i];
         }
-        if(tsum<target){
-            return 0;
-        }
+//         if(tsum<target){
+//             return 0;
+//         }
         
         if((target+tsum)%2==1){
             return 0;
